@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EL_CORRAL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="el_corral">HAMBURGUESAS EL CORRAL</string>
+    <string name="puntosdeventa">Puntos de venta</string>
+    <string name="mapa">Ubicación</string>
+    <string name="sedes">Nuestras sedes</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="nombre_de_la_sede">Nombre de la sede:</string>
+    <string name="ingrese_nombre">Ingrese nombre</string>
+    <string name="latitud">Latitud:</string>
+    <string name="ingrese_latitud">Ingrese latitud</string>
+    <string name="longitud">Longitud:</string>
+    <string name="ingrese_longitud">Ingrese longitud</string>
+    <string name="almacenar">ALMACENAR</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="cargar">CARGAR</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>
